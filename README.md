@@ -3,4 +3,5 @@ PolyGo is a nested polygon pattern generator. It creates geometrical patterns of
 
 To run PolyGo without having to compile it, just download the jar file and open it directly, or install it on your computer using the executable installer. Requires Java 1.6 or higher.
 
-![Uploading image.png…]()ercontent.com/7650159/132946491-24d5ed51-87e6-44db-9a01-46fdcbba82cf.png)
+![1](https://user-images.githubusercontent.com/7650159/132946544-11d57c68-cd6f-4bfb-a7b7-b4bfe3d41e7b.png)
+
