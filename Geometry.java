@@ -163,7 +163,7 @@ public class Geometry {
         return(rotatedPolygon);
     }
     
-    /* Change one angle of the polygon by adjusting the length of the adjoinging side
+    /* Change one angle of the polygon by adjusting the length of the adjoining side
     and the other side of the next angle. */
     public static PolygonD changePolygonAngle(PolygonD polygon, int index, double newAngle) {
         int numVertices = polygon.length();
